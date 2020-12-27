@@ -1,0 +1,30 @@
+{
+  "India": [
+    "Delhi",
+    0
+  ],
+  "Andhra Pradesh": [
+    "Vijayawada",
+    1609078626.0768583
+  ],
+  "Telangana": [
+    "Hyderabad",
+    1609082011.098132
+  ],
+  "Maharashtra": [
+    "Mumbai",
+    0
+  ],
+  "Kerala": [
+    "Trivandrum",
+    1609083963.3862026
+  ],
+  "States": [
+    "29",
+    0
+  ],
+  "continents": [
+    "[7, 'Asia', 'Australia', 'and so on...']",
+    0
+  ]
+}
